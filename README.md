@@ -41,14 +41,14 @@ Given a new input image, the model predicts whether it is a real or deepfake ima
 
 
 ## Key Techniques Used
-CNN-based Feature Extraction
+1. CNN-based Feature Extraction
 
-Transfer Learning with pretrained models
+2. Transfer Learning with pretrained models
 
-Image Data Augmentation
+3. Image Data Augmentation
 
-Regularization to Prevent Overfitting
+4. Regularization to Prevent Overfitting
 
-Binary Classification Metrics for Evaluation
+5. Binary Classification Metrics for Evaluation
 
-Flask-based Web Deployment
+6. Flask-based Web Deployment

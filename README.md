@@ -35,7 +35,9 @@ Performance is monitored using metrics like accuracy, precision, recall, and F1 
 ### 4.Prediction
 
 Given a new input image, the model predicts whether it is a real or deepfake image based on learned patterns.
+![WhatsApp Image 2025-04-20 at 11 39 08 PM](https://github.com/user-attachments/assets/c71a73fa-5bf5-44c2-accd-a6e90464d64e)
 
+![WhatsApp Image 2025-04-20 at 11 47 06 PM](https://github.com/user-attachments/assets/36fd62b8-c61d-4a54-aa11-2e42c09256d6)
 
 
 ## Key Techniques Used

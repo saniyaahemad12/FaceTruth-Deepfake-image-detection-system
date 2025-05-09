@@ -1,6 +1,6 @@
 # FaceTruth-Deepfake Detection for Images
 
-## Introduction-
+## Introduction
 
 Deepfakes are synthetic media generated using deep learning techniques, often to create hyper-realistic fake images and videos.
 They can pose significant threats to security, trust, and authenticity in digital communications.
